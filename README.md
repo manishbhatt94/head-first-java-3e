@@ -1,1 +1,1 @@
-# shristi-java-fs-training
+# Head First Java 3e - Code along! 👨‍💻⌨️
